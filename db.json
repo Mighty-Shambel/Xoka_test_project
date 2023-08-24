@@ -1,0 +1,86 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Mighty",
+      "lastName": "shambel",
+      "phone": "995744599",
+      "email": "shambelmighty51@gmail.com",
+      "salary": "",
+      "department": "Managment",
+      "employee": "Employee",
+      "company": "Xoka",
+      "date": "2023-08-28T21:00:00.000Z",
+      "gender": "Female",
+      "id": 1
+    },
+    {
+      "firstName": "Lilah",
+      "lastName": "Mcneil",
+      "phone": "+1 (476) 944-2667",
+      "email": "setegero@mailinator.com",
+      "salary": "",
+      "department": "Developer",
+      "employee": "UnEmployed",
+      "company": "Tahses",
+      "date": "1974-04-16T21:00:00.000Z",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "firstName": "Wang",
+      "lastName": "Hayden",
+      "phone": "+1 (261) 748-8875",
+      "email": "suby@mailinator.com",
+      "salary": "",
+      "department": "Developer",
+      "employee": "Employee",
+      "company": "Ewnet",
+      "date": "1977-04-24T21:00:00.000Z",
+      "gender": "Female",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "phone": "",
+      "email": "",
+      "salary": "",
+      "department": "",
+      "employee": "",
+      "company": "",
+      "date": "",
+      "gender": "",
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "phone": "",
+      "email": "",
+      "salary": "",
+      "department": "",
+      "employee": "",
+      "company": "",
+      "date": "",
+      "gender": "",
+      "id": 5
+    }
+  ]
+}
